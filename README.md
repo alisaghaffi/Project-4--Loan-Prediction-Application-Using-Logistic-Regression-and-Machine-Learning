@@ -7,7 +7,7 @@
 
 ## Presentation :
 
-Our Tableau Overview presentation is [Loan Prediction](https://public.tableau.com/app/profile/parisa.charkhgary/viz/LoanPrediction_16628356042020/LoanPrediction)
+Our Tableau Overview presentation is [Loan Prediction](https://public.tableau.com/app/profile/ali6965/viz/LoanPrediction_16628357529040/byGender)
 
 ### Content
 
